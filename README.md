@@ -1,4 +1,4 @@
-# UnitySudokuSolver
+# Unity Sudoku Solver
 ## What I am showing:
 
 Understanding of algorithms (Backtracking)
