@@ -1,2 +1,8 @@
 # UnitySudokuSolver
-Quick little representation of understanding of DFS
+## What I am showing:
+
+Understanding of algorithms (Backtracking)
+
+Optimization (optimization of basic backtracking algorithm)
+
+Unity UI development
